@@ -4,13 +4,13 @@
 
 - [About](#about)
 - [Features](#features)
-- [File structure](#File structure)
-- [Why I consider building a weather app?](#Why I consider building a weather app?)
+- [File Structure](#FileStructure)
+- [Why I consider building a weather app?](#WhyIconsiderbuildingaweatherapp?)
 - [Getting started](#getting-started)
-  - [Project Plan](#Project Plan)
-     - [Steps To Create Weather App in HTML & JavaScript](#Steps To Create Weather App in HTML & JavaScript)
+  - [Project Plan](#ProjectPlan)
+     - [Steps To Create Weather App in HTML & JavaScript](#StepsToCreateWeatherAppinHTML&JavaScript)
 - [Notes](#Notes)
-- [Example interaction](#Example interaction)
+- [Example interaction](#Exampleinteraction)
 - [License](#-license)
 
 ---
@@ -72,13 +72,13 @@ Create a style.css file. The file name must be style and its extension .css
 Create a script.js file. The file name must be script and its extension .js
 
 ## Notes
-your weather app is still unable to show the weather forecast for any location because you’ve not provided your OpenWeatherMap API key in the API_KEY variable. To get a free API key, sign up for an account at https://home.openweathermap.org/api_keys. Your API key may take minutes or hours to activate. You’ll get an error like “Invalid API Key” or something similar during this time.
+your weather app is still unable to show the weather forecast for any location if you’ve not provided your OpenWeatherMap API key in the API_KEY variable. To get a free API key, sign up for an account at https://home.openweathermap.org/api_keys. Your API key may take minutes or hours to activate. You’ll get an error like “Invalid API Key” or something similar during this time.
 
-## Example interaction
-User :"Delhi"
-Weather App : "Temperature: 25.06°C
-Wind: 1.8 M/S
-Humidity: 33%"
+# Requirement
+- Front end Development ( Html , CSS ).
+- Back end Development ( JavaScript ).
+- Tester
+- UI/UX Developer
 
 ## 📝 License
 

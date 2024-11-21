@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [About](#about)
+- [Project Objectives](#ProjectObjectives)
 - [Features](#features)
 - [File Structure](#FileStructure)
 - [Why I consider building a weather app?](#WhyIconsiderbuildingaweatherapp?)
@@ -17,6 +18,9 @@
 
 ## About
 This is a weather app project,where users can enter any city name to get the 5-day weather forecast or simply click on the “Use Current Location” button to get their current location’s weather details, including temperature, wind speed, humidity, and more. This project is also mobile-friendly, which means it looks great on all devices.weather app project allows you to apply your web development skills to a real-world application. Also, it helps you to better understand DOM manipulation, Event handling, CSS styling, APIs, and more.
+# Project Objectives
+The purpose of this project is to put into practice what we have learned so far in our software engineering class.
+We spent most of the semester studying extreme programming. With extreme programming, we knows how far knowledge is coming and knows what to expect at one time or the other. The website/app is built exactly the way the user wants it to be built
 
 # Requirement
 - Front end Development ( Html , CSS ).

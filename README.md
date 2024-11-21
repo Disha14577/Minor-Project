@@ -18,6 +18,12 @@
 ## About
 This is a weather app project,where users can enter any city name to get the 5-day weather forecast or simply click on the “Use Current Location” button to get their current location’s weather details, including temperature, wind speed, humidity, and more. This project is also mobile-friendly, which means it looks great on all devices.weather app project allows you to apply your web development skills to a real-world application. Also, it helps you to better understand DOM manipulation, Event handling, CSS styling, APIs, and more.
 
+# Requirement
+- Front end Development ( Html , CSS ).
+- Back end Development ( JavaScript ).
+- Tester
+- UI/UX Developer
+
 ## Features
 
 The features of this project are, user can:
@@ -40,8 +46,6 @@ The features of this project are, user can:
 - style.css
 - script.js
 
-## live Server
-http://127.0.0.1:5500/Mausam.html
 
 ## Why I consider building a weather app?
 •	Creating a weather website can be a fulfilling project that serves a broad audience. With the right set of tools and a well-thought-out approach, your website can become a go-to resource for weather information.
@@ -74,11 +78,8 @@ Create a script.js file. The file name must be script and its extension .js
 ## Notes
 your weather app is still unable to show the weather forecast for any location if you’ve not provided your OpenWeatherMap API key in the API_KEY variable. To get a free API key, sign up for an account at https://home.openweathermap.org/api_keys. Your API key may take minutes or hours to activate. You’ll get an error like “Invalid API Key” or something similar during this time.
 
-# Requirement
-- Front end Development ( Html , CSS ).
-- Back end Development ( JavaScript ).
-- Tester
-- UI/UX Developer
+## live Server
+http://127.0.0.1:5500/Mausam.html
 
 ## 📝 License
 

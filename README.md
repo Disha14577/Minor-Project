@@ -26,7 +26,7 @@ This is a weather app project,where users can enter any city name to get the 5-d
 ## live Demo
 
 You can view the live version of this weather app at:  
-[http://127.0.0.1:5500/Mausam.html](http://127.0.0.1:5500/Mausam.html)
+[https://disha14577.github.io/Minor-Project/](https://disha14577.github.io/Minor-Project/)
 
 ## Technologies used
 - Front end Development ( Html , CSS ).
@@ -91,6 +91,7 @@ Temperature: 25.06°C
 Wind: 1.8 M/S
 Humidity: 33%"
 
+
 ## LICENSE
 This project is [MIT](./LICENSE) licensed. 
 
@@ -102,6 +103,7 @@ your weather app is still unable to show the weather forecast for any location i
 This app uses the **OpenWeatherMap API** to fetch weather data. If you're planning to use it for personal purposes or modifications, you may need to create your own API key by signing up at [OpenWeatherMap](https://openweathermap.org/api).
 
 1. Once you have your key, you can replace the existing API key in the JavaScript file.
+
 
 ```javascript
 const apikey = "YOUR_API_KEY_HERE"; // Replace this with your API key.
